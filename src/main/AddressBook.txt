@@ -1,0 +1,2 @@
+family[PersonInfo{first_name='Sachin', last_name='Kore', address='Nanded', city='Mukhed', state='Maharashtra', zip=411057, phone_number='9999999999', email='abc@gmail.com'}]
+friends[PersonInfo{first_name='Kapil', last_name='Kondalwade', address='Namded', city='Ladaga', state='MH', zip=431715, phone_number='8888888888', email='xyz@gmail.com'}]

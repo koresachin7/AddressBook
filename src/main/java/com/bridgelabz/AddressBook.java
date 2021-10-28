@@ -1,5 +1,4 @@
 package com.bridgelabz;
-
 import java.util.Scanner;
 import java.util.*;
 public class AddressBook {
@@ -17,6 +16,7 @@ public class AddressBook {
         Hashtable<String, ArrayList<contactInfo>> personInfoDict = new Hashtable<>();
         ReadWriteOperations readWriteObj = new ReadWriteOperations();
         ReadWriteCSVFile csvObj = new ReadWriteCSVFile();
+        ReadWriteJSONFile jsonObj = new ReadWriteJSONFile();
 
         boolean flag = true;
         int option;
